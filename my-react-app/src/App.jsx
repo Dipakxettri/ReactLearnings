@@ -4,7 +4,10 @@ function App() {
   const [count, setCount] = useState(0)
 
   return (
-  <h2>Hello i am react jsss </h2>
+    <div>
+      <p>Hello this is my persional site</p>
+    </div>
+    
   )
 }
 
