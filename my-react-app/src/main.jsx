@@ -34,6 +34,8 @@ const AnotherElement = (
 
 
 let userID = 20;
+
+
 // ------- Lets see how react works create elements under the hood -------
 const newReactElement = React.createElement(
   // The syntax is pre defined not like in our custom react where we use our own syntax
